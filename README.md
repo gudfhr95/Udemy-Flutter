@@ -1,4 +1,4 @@
-# flutter_meal
+# flutter_meals
 
 A new Flutter project.
 
